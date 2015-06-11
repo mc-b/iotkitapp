@@ -9,12 +9,12 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <preference name="SimpleApp" value="1.0.0" />
+    <preference name="IoTKit APP" value="1.0.0" />
 
     <name>Simple App</name>
 
     <description>
-    Simple App (c) Marcel Bernet, Zuerich
+    IoTKit App (c) Marcel (mc-b) Bernet, Zuerich
     </description>
 
     <author href="http://www.mc-b.ch" email="marcel.bernet@ch-open.ch">
